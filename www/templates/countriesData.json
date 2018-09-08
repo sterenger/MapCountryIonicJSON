@@ -1,0 +1,79 @@
+{
+  "Countries": [
+    {
+      "country": "Tunisia",
+      "alpha2": "TN",
+      "alpha3": "TUN",
+      "numeric": 788,
+      "latitude": 34,
+      "longitude": 9
+    },
+
+    {
+      "country": "Brazil",
+      "alpha2": "BR",
+      "alpha3": "BRA",
+      "numeric": 76,
+      "latitude": -10,
+      "longitude": -55
+    },
+    {
+      "country": "Portugal",
+      "alpha2": "PT",
+      "alpha3": "PRT",
+      "numeric": 620,
+      "latitude": 39.5,
+      "longitude": -8
+    },
+
+    {
+      "country": "Germany",
+      "alpha2": "DE",
+      "alpha3": "DEU",
+      "numeric": 276,
+      "latitude": 51,
+      "longitude": 9
+    },
+
+    {
+      "country": "United States",
+      "alpha2": "US",
+      "alpha3": "USA",
+      "numeric": 840,
+      "latitude": 38,
+      "longitude": -97
+    },
+    {
+      "country": "United Kingdom",
+      "alpha2": "GB",
+      "alpha3": "GBR",
+      "numeric": 826,
+      "latitude": 54,
+      "longitude": -2
+    },
+    {
+      "country": "Japan",
+      "alpha2": "JP",
+      "alpha3": "JPN",
+      "numeric": 392,
+      "latitude": 36,
+      "longitude": 138
+    },
+    {
+      "country": "Australia",
+      "alpha2": "AU",
+      "alpha3": "AUS",
+      "numeric": 36,
+      "latitude": -27,
+      "longitude": 133
+    },
+    {
+      "country": "Belgium",
+      "alpha2": "BE",
+      "alpha3": "BEL",
+      "numeric": 56,
+      "latitude": 50.8333,
+      "longitude": 4
+    }
+  ]
+}

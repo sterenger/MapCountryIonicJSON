@@ -1,0 +1,15 @@
+<ion-view>
+  <ion-content>
+    <div id="map" data-tap-disabled="true"></div>
+    <br>
+    <div class="list">
+      <label class="item item-input item-select item-light">
+        <div class="input-label">
+          Select Country:
+        </div>
+        <select ng-model="selectCountry" ng-options="item.country for item in countriesList track by item.numeric" ng-change="showSelectValue(selectCountry)">
+        </select>
+      </label>
+    </div>
+  </ion-content>
+</ion-view>
